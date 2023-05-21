@@ -5,3 +5,6 @@ print('teste10')
 
 
 testando o StopIteration
+
+
+comitando na nova brench 
